@@ -1,5 +1,5 @@
 # coordinates
-This repository contains geometries from publications that I have worked on in the past. I am posting them here so that people trying to reproduce results, or build on work that I have done in the past.
+This repository contains atomistic geometries from publications that I have worked on in the past. I am posting them here so that people trying to reproduce results, or build on work that I have done in the past can do so.
 
 The details of the relaxation, pseudopotential, etc are contained in the relevant scientific publication.
 
